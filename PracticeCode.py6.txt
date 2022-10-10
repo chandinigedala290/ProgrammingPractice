@@ -1,0 +1,12 @@
+x = "Chanu"
+def myfunc():
+    x = "Gedala"
+    print("My First name is" +x)
+    x = "Chandini"
+    print("My Last name is" +x)
+    
+    
+myfunc()
+print("My Nick name is" +x)
+
+    

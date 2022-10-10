@@ -1,0 +1,26 @@
+x = 1.9#float
+y = 99#int
+z = 8.8#float
+f = 5j#complex
+
+#convert from float to int:
+a = int(1.9)
+
+#convert from int to complex:
+b = complex(99)
+
+#convert from float to complex:
+c = int(8.8)
+
+#convert from complex to int:
+d = complex(5)
+
+print(a)
+print(b)
+print(c)
+print(d)
+
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))

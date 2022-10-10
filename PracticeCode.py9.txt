@@ -1,0 +1,20 @@
+a = 'Gedala Chandini'
+b = 'Chanu'
+print(a[1])
+print(a[9])
+print(b[0])
+for x in "Chanu":
+  print(x)
+a = "Chanu"
+print(len(a))
+txt = "This is the best place in the Worls"
+if "place" in txt:
+   print("Yes, 'place' is present.")
+txt = "This is the best place in the Worls"
+if "place" in txt:
+   print("True")
+a = "This is very beautiful "
+b = " And looking Pleasent"
+c = a + " " + b
+print(c)
+   
